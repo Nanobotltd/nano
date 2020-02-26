@@ -1,4 +1,4 @@
-<script type="text/javascript">
+
 function xClicked(){
 setCookie("username", "dienvidaustrumazija", 1);
 document.getElementById("navbars").style.top = "110%";
@@ -52,4 +52,3 @@ window.addEventListener('scroll', function() {
 }, false);
 
 
-</script>
