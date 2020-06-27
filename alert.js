@@ -1,1 +1,0 @@
-alert("tas ir alertins");
